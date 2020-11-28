@@ -2,7 +2,7 @@
 //copyright © Angry Black 2020.//❦Angry Black❦
 
 const Discord = require("discord.js");
-const myid = ['Your ID'];//هنا بتحط الايدى بتاعك بتاع الديسكورد
+const myid = ['576873772703940609']
 const client = new Discord.Client();
 const client2 = new Discord.Client();
 const client3 = new Discord.Client();
@@ -58,16 +58,16 @@ client24.login(process.env.TOKEN24);
 //✠▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ஜ☢❦۞❦☢ஜ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬✠//BY: POULAZ (Angry Black)
 
 client.on('message', message => {
-  if (message.content === '$d') {
+  if (message.content === 'd') {
 message.channel.send('#daily')
   }
-  if(message.content === '$c'){
+  if(message.content === 'c'){
 message.channel.send('#credits')
   }
- if(message.content ===  '$u'){
+ if(message.content ===  'u'){
 message.channel.send("©angryblack YT")
   }   
-  if(message.content.startsWith("$s")) {
+  if(message.content.startsWith("s")) {
 
     var text = message.content.split(' ').slice(1).join(' ');
      message.channel.send(text);
@@ -75,13 +75,13 @@ message.channel.send("©angryblack YT")
 });
 
 client2.on('message', message => {
-  if(message.content === '$d'){
+  if(message.content === 'd'){
 message.channel.send('#daily')
   }
-  if(message.content === '$c'){
+  if(message.content === 'c'){
 message.channel.send('#credits')
   }
-  if(message.content.startsWith("$s")) {
+  if(message.content.startsWith("s")) {
     //copyright © Angry Black 2020.//❦Angry Black❦
     var text = message.content.split(' ').slice(1).join(' ');
      message.channel.send(text);
@@ -89,42 +89,42 @@ message.channel.send('#credits')
 });
 
 client3.on('message', message => {
-  if(message.content === '$d'){
+  if(message.content === 'd'){
 message.channel.send('#daily')
   }
-  if(message.content === '$c'){
+  if(message.content === 'c'){
 message.channel.send('#credits')
   }
-  if(message.content.startsWith("$s")) {
+  if(message.content.startsWith("s")) {
     var text = message.content.split(' ').slice(1).join(' ');
      message.channel.send(text);
   }
 });
 
 client4.on('message', message => {
-  if (message.content === '$d') {
+  if (message.content === 'd') {
 message.channel.send('#daily')
   }
-  if(message.content === '$c'){
+  if(message.content === 'c'){
 message.channel.send('#credits')
   }
- if(message.content ===  '$u'){
+ if(message.content ===  'u'){
 message.channel.send("©angryblack YT")
   }     
-  if(message.content.startsWith("$s")) {
+  if(message.content.startsWith("s")) {
     var text = message.content.split(' ').slice(1).join(' ');
      message.channel.send(text);
   }
 });
 
 client5.on('message', message => {
-  if(message.content === '$d'){
+  if(message.content === 'd'){
 message.channel.send('#daily')
   }
-  if(message.content === '$c'){
+  if(message.content === 'c'){
 message.channel.send('#credits')
   }
-  if(message.content.startsWith("$s")) {
+  if(message.content.startsWith("s")) {
     var text = message.content.split(' ').slice(1).join(' ');
      message.channel.send(text);
   }
@@ -390,8 +390,8 @@ client.on('message', message => {
 if (message.content === '$spam') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 30000; x++) {
-        message.channel.send(`**??? ???? ??? **[ " ${x} " ]`)
+      for(let x = 0; x < 3000; x++) {
+        message.channel.send(`**hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh kono dio yare rae rae yarohkono zawardo **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -404,8 +404,8 @@ client2.on('message', message => {
 if (message.content === '$spam') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 30000; x++) {
-        message.channel.send(`**??? ???? ??? **[ " ${x} " ]`)
+      for(let x = 0; x < 3000; x++) {
+        message.channel.send(`**hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh kono dio yare rae rae yarohkono zawardo **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -418,8 +418,8 @@ client3.on('message', message => {
 if (message.content === '$spam') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 30000; x++) {
-        message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
+      for(let x = 0; x < 3000; x++) {
+        message.channel.send(`**hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh kono dio yare rae rae yarohkono zawardo **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -432,9 +432,9 @@ client4.on('message', message => {
 if (message.content === '$spam') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 30000; x++) {
+      for(let x = 0; x < 3000; x++) {
        
-        message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
+        message.channel.send(`**hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh kono dio yare rae rae yarohkono zawardo **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -447,8 +447,8 @@ client5.on('message', message => {
 if (message.content === '$spam') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 30000; x++) {
-        message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
+      for(let x = 0; x < 3000; x++) {
+        message.channel.send(`**hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh kono dio yare rae rae yarohkono zawardo **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -461,7 +461,7 @@ client6.on('message', message => {
 if (message.content === '$spam') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 30000; x++) {
+      for(let x = 0; x < 3000; x++) {
         message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
           .then(m => {
             count++;
